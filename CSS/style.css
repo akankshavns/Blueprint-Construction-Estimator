@@ -798,19 +798,22 @@ footer p{
 
 }
 
+.social a{
+  text-decoration: none;
+}
+
 .social i{
 
     width:55px;
 
     height:55px;
-
     line-height:55px;
 
     text-align:center;
 
     border-radius:50%;
 
-    background:#1d2b45;
+    background:#8ca7f8;
 
     margin:0 10px;
 
@@ -824,7 +827,7 @@ footer p{
 
 .social i:hover{
 
-    background:#0066ff;
+    background:#ecedef;
 
     transform:translateY(-8px);
 
